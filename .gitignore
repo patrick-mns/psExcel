@@ -2,3 +2,4 @@ set.py
 psJsonBasic.spec
 v.txt
 /_pycache_
+.gitignore
